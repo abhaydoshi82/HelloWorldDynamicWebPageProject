@@ -2,7 +2,8 @@
 *.log
 *.exe
 *.class
-*.war*.ear
+*.war
+*.ear
 build/
 .classpath
 .project
