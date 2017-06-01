@@ -4,3 +4,6 @@
 *.class
 *.war*.ear
 build/
+.classpath
+.project
+.settings/
